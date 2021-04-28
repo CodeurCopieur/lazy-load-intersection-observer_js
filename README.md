@@ -1,1 +1,5 @@
-# lazy-load-intersection-observer_js
+# Lazy Load Images with Vanilla JavaScript and Intersection Observer
+
+
+* Intersection Observer
+* Lazy Load
